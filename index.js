@@ -80,6 +80,10 @@ console.log(...str);
 
 */
 
+/* 
+--The difference between spread operator y push is that push modifies the original array while spread operator doesn't.
+*/
+
 
 
 
